@@ -1,0 +1,38 @@
+/* Universal selector */
+* {
+  background-color: #f4d6cc;
+}
+
+h1 {
+  border: 2px solid red;
+  color: brown;
+  padding: 5px;
+  margin: 20px;
+}
+
+.biryani-regular {
+  font-family: "Biryani", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  text-align: center;
+}
+.navbar,
+li{
+  list-style: none;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+/* h1{
+  color:blue;
+}
+p{
+    color:chartreuse
+}
+h2{
+    color:brown;
+}
+</style> */
